@@ -1,9 +1,7 @@
-
-<!-- Colorful Gradient Soft Header -->
+<!-- Colorful Gradient Wave Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=8ec5fc,e0c3fc,faaca8&height=120&section=header" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=header" />
 </div>
-
 
 <img style="cursor: pointer;" src="/top.svg"/>
 
