@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-Hey there! I’m a second-year student majoring in Data Science—but honestly, I’m just someone who loves to learn and build cool things. There is not much to know about me and even if you do you won't understand. Respectfully get lost!
+Hey there! I’m a second-year student majoring in Data Science—but honestly, I’m just someone who loves to learn and build cool things. There is not much to know about me and even if you do you won't understand. So respectfully get lost!
 
 
 ---
