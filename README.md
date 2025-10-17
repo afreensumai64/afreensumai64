@@ -47,12 +47,17 @@ I'm a passionate student and developer who enjoys coding, problem-solving, digit
 
 ---
 
-## 🤖 IoT & ML Interests
+## 📊 Data Analyst Skills
 
-- Smart sensor integration (IoT)
-- Machine learning for practical applications
-- Data collection and optimization
-- Project automation
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Statistics](https://img.shields.io/badge/Statistics-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-FF6F00?style=for-the-badge&logo=visualstudio&logoColor=white)
+![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-6C3483?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
