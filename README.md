@@ -1,3 +1,8 @@
+<!-- Colorful Moving Header -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Sumaiya%20Afreen&fontSize=60&animation=fadeIn" />
+</div>
+
 <img style="cursor: pointer;" src="/top.svg"/>
 
 <h1 align="center" style="color:orange;">
@@ -71,5 +76,10 @@ I'm a passionate student and developer who enjoys coding, problem-solving, digit
 ---
 
 <img src="/bottom.svg"/>
+
+<!-- Colorful Moving Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</div>
 
 
