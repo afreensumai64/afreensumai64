@@ -1,7 +1,8 @@
-<!-- Colorful Moving Header -->
+<!-- Colorful Gradient Wave Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Sumaiya%20Afreen&fontSize=60&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=header" />
 </div>
+
 
 <img style="cursor: pointer;" src="/top.svg"/>
 
@@ -77,9 +78,7 @@ I'm a passionate student and developer who enjoys coding, problem-solving, digit
 
 <img src="/bottom.svg"/>
 
-<!-- Colorful Moving Footer -->
+<!-- Matching Gradient Wave Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=130&section=footer" />
 </div>
-
-
