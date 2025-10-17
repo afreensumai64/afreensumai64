@@ -15,7 +15,11 @@
 
 ## 🚀 About Me
 
-I'm a passionate student and developer who enjoys coding, problem-solving, digital design, and building real-world IoT + ML projects. Experienced in Python, C/C++, and web technologies—always learning and experimenting with practical tech solutions!
+Hey there! I’m a second-year student majoring in Data Science—but honestly, I’m just someone who loves to learn and build cool things. Whether I’m wrangling data, coding up a new idea, or diving into a design project, you’ll usually find me at my happiest when I’m deep into solving a real problem.
+
+I’m always excited to meet other curious minds, pick up a new skill, and see where a love for tech and data can take me next. If you think the world is a little brighter when you mix development with some data magic, we’re probably on the same wavelength!
+
+
 
 ---
 
