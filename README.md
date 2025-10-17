@@ -1,7 +1,9 @@
+
 <!-- Colorful Gradient Soft Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=4F8FEA,DD5E89,F7BB97&height=120&section=header" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=8ec5fc,e0c3fc,faaca8&height=120&section=header" />
 </div>
+
 
 <img style="cursor: pointer;" src="/top.svg"/>
 
@@ -83,5 +85,5 @@ I’m always excited to meet other curious minds, pick up a new skill, and see w
 
 <!-- Matching Gradient Soft Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=4F8FEA,DD5E89,F7BB97&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=faaca8,e0c3fc,8ec5fc&height=100&section=footer" />
 </div>
