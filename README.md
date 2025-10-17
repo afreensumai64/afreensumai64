@@ -1,8 +1,7 @@
-<!-- Colorful Gradient Wave Header -->
+<!-- Colorful Gradient Soft Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=header" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=4F8FEA,DD5E89,F7BB97&height=120&section=header" />
 </div>
-
 
 <img style="cursor: pointer;" src="/top.svg"/>
 
@@ -82,7 +81,7 @@ I’m always excited to meet other curious minds, pick up a new skill, and see w
 
 <img src="/bottom.svg"/>
 
-<!-- Matching Gradient Wave Footer -->
+<!-- Matching Gradient Soft Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=130&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=4F8FEA,DD5E89,F7BB97&height=100&section=footer" />
 </div>
