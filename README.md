@@ -81,7 +81,7 @@ I’m always excited to meet other curious minds, pick up a new skill, and see w
 
 <img src="/bottom.svg"/>
 
-<!-- Matching Gradient Soft Footer -->
+<!-- Matching Gradient Wave Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=faaca8,e0c3fc,8ec5fc&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=130&section=footer" />
 </div>
