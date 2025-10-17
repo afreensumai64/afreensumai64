@@ -58,18 +58,10 @@ I'm a passionate student and developer who enjoys coding, problem-solving, digit
 
 ## 📍 Connect with Me
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourprofile)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white )] (https://www.instagram.com/6sm14/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sumaiya1510)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:afreensumai@email.com)
 
----
-
-## 📌 Public Project Repositories
-
-| Repository    | Size  | Commit Activity | Maintained | Last Commit  | Lines of Code |
-| ------------- |:--------:| ----------: | :-------: | -------------: | :-------------: |  
-| [30-days-30-projects-](https://github.com/afreensumai64/30-days-30-projects-) | ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/afreensumai64/30-days-30-projects-)    | ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/afreensumai64/30-days-30-projects-) | ![Maintenance](https://img.shields.io/maintenance/yes/2025)   | ![GitHub last commit](https://img.shields.io/github/last-commit/afreensumai64/30-days-30-projects-)  | ![Lines of code](https://img.shields.io/tokei/lines/github/afreensumai64/30-days-30-projects-) |
-| [IoT-Waste-Segregator](https://github.com/afreensumai64/IoT-Waste-Segregator) | ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/afreensumai64/IoT-Waste-Segregator)    | ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/afreensumai64/IoT-Waste-Segregator) | ![Maintenance](https://img.shields.io/maintenance/yes/2025)   | ![GitHub last commit](https://img.shields.io/github/last-commit/afreensumai64/IoT-Waste-Segregator)  | ![Lines of code](https://img.shields.io/tokei/lines/github/afreensumai64/IoT-Waste-Segregator) |
 
 ---
 
