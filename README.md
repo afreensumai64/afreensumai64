@@ -28,9 +28,10 @@
   <img 
     width="auto" 
     height="auto" 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=afreensumai64&hide_border=true&theme=radical&v=1"
+    src="https://streak-stats.demolab.com/?user=afreensumai64&hide_border=true&theme=radical&v=1"
   /><br>
 </div>
+
 
 
 ---
