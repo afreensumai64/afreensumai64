@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
- I’m a second-year student majoring in Data Science—but honestly, I’m just someone who loves to learn and build cool things. There is not much to know about me and even if you do you won't understand. So respectfully get lost!
+I’m a second-year student who loves learning new things and creating stuff that feels meaningful. I’m curious, always trying something different, and honestly… a little hard to figure out unless I let you. There’s more to me than I show.
 
 
 ---
