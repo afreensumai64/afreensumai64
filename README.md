@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-I’m a second-year student who loves learning new things and creating stuff that feels meaningful. I’m curious, always trying something different, and honestly… a little hard to figure out unless I let you. There’s more to me than I show.
+I’m a second-year student who enjoys learning new things and creating work that feels purposeful. Curious by nature, I like exploring new ideas, tools, and perspectives while constantly pushing myself to grow and improve.
 
 
 ---
