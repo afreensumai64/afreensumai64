@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-I’m a second-year student who enjoys learning new things and creating work that feels purposeful. Curious by nature, I like exploring new ideas, tools, and perspectives while constantly pushing myself to grow and improve.
+I’m a second-year student who enjoys learning new things and creating work that feels purposeful. Curious by nature, I like exploring new ideas, tools, and perspectives while constantly growing and improving.
 
 
 ---
