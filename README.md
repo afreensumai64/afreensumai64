@@ -20,18 +20,24 @@ I’m a second-year student who enjoys learning new things and creating work tha
 ---
 
 <div align="center">
-  <img 
-    width="auto" 
-    height="auto" 
+  <img
+    width="auto"
+    height="auto"
     src="https://github-readme-stats.vercel.app/api?username=afreensumai64&show_icons=true&theme=radical&hide_border=true&v=1"
   />
-  <img 
-    width="auto" 
-    height="auto" 
+
+  <img
+    width="auto"
+    height="auto"
     src="https://streak-stats.demolab.com/?user=afreensumai64&hide_border=true&theme=radical&v=1"
-  /><br>
+  />
 </div>
 
+<div align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=afreensumai64&theme=radical&hide_border=true"
+  />
+</div>
 
 
 ---
