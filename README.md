@@ -20,11 +20,10 @@ I’m a second-year student who enjoys learning new things and creating work tha
 ---
 
 <div align="center">
-  <img
-    width="auto"
-    height="auto"
-    src="https://github-readme-stats.vercel.app/api?username=afreensumai64&show_icons=true&theme=radical&hide_border=true&v=1"
-  />
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=afreensumai64&theme=radical&hide_border=true&background=0D1117&ring=FF4D94&fire=FF79C6&currStreakLabel=FF4D94&sideLabels=F8F8F2&dates=C9D1D9&sideNums=FF79C6&stroke=0D1117&border_radius=10)](https://git.io/streak-stats)
+
+</div>
 
   <img
     width="auto"
