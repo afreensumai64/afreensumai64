@@ -25,14 +25,6 @@ I’m a second-year student who enjoys learning new things and creating work tha
 
 </div>
 
-  <img
-    width="auto"
-    height="auto"
-    src="https://streak-stats.demolab.com/?user=afreensumai64&hide_border=true&theme=radical&v=1"
-  />
-</div>
-
-
 
 
 ---
