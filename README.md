@@ -33,11 +33,7 @@ I’m a second-year student who enjoys learning new things and creating work tha
   />
 </div>
 
-<div align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=afreensumai64&theme=radical&hide_border=true"
-  />
-</div>
+
 
 
 ---
