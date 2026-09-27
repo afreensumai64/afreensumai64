@@ -13,8 +13,8 @@
 ---
 
 ## 🚀 About Me
+I’m a third-year Computer Science student who loves learning and trying new things. I’m always curious to explore new ideas, tools, and skills, and I enjoy working on things that feel meaningful. I’m still learning and growing, one step at a time.
 
-I’m a second-year student who enjoys learning new things and creating work that feels purposeful. Curious by nature, I like exploring new ideas, tools, and perspectives while constantly growing and improving.
 
 
 ---
